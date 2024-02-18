@@ -1,0 +1,5 @@
+** Reset nessus passwd **
+cd /opt/nessus/sbin
+ls
+sudo ./nessuscli lsuser
+sudo ./nessuscli chpasswd [acount-name]
