@@ -1,4 +1,5 @@
 ** Reset nessus passwd **
+1. go to terminal 
 cd /opt/nessus/sbin
 ls
 sudo ./nessuscli lsuser
